@@ -1,0 +1,11 @@
+C:\Users\Maca\source\repos\DF2\DF2\bin\Debug\DF2.exe.config
+C:\Users\Maca\source\repos\DF2\DF2\bin\Debug\DF2.exe
+C:\Users\Maca\source\repos\DF2\DF2\bin\Debug\DF2.pdb
+C:\Users\Maca\source\repos\DF2\DF2\obj\Debug\DF2.csprojAssemblyReference.cache
+C:\Users\Maca\source\repos\DF2\DF2\obj\Debug\DF2.Properties.Resources.resources
+C:\Users\Maca\source\repos\DF2\DF2\obj\Debug\DF2.csproj.GenerateResource.cache
+C:\Users\Maca\source\repos\DF2\DF2\obj\Debug\DF2.csproj.CoreCompileInputs.cache
+C:\Users\Maca\source\repos\DF2\DF2\obj\Debug\DF2.exe
+C:\Users\Maca\source\repos\DF2\DF2\obj\Debug\DF2.pdb
+C:\Users\Maca\source\repos\DF2\DF2\obj\Debug\DF2.ChooseObject.resources
+C:\Users\Maca\source\repos\DF2\DF2\obj\Debug\DF2.MainForm.resources
